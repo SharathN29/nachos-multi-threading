@@ -57,3 +57,10 @@ Run the following two commands:
 *	make clean; make depend; make
 *	./nachos -K -quantum 1000
 
+## Output Screenshots 
+
+<img width="1440" alt="screen shot 2018-11-03 at 04 39 24" src="https://user-images.githubusercontent.com/11005163/50482768-5d911d80-09b6-11e9-9c71-3a2eaa6724a5.png">
+
+<img width="1251" alt="screen shot 2018-11-03 at 04 40 21" src="https://user-images.githubusercontent.com/11005163/50482771-6255d180-09b6-11e9-9c6a-a315f70c913e.png">
+
+<img width="1440" alt="screen shot 2018-11-03 at 04 41 24" src="https://user-images.githubusercontent.com/11005163/50482776-684bb280-09b6-11e9-8bb2-3a03f0c682a4.png">
